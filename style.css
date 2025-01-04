@@ -1,0 +1,17 @@
+div{
+     border: 10px 10px;
+     margin: 5px 5 px;
+     background-color: blue;
+     padding: 5px 5px;
+     height: 100px 100px;
+     width: 100px 100px;
+}
+h2{
+     color: aqua;
+     text-align: center;
+
+}
+p{
+      color: yellow;
+      text-align: center;
+}
